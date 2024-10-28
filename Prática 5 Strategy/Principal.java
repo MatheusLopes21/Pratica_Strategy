@@ -1,3 +1,7 @@
+/* Pratica 5 Strategy Method
+    Dupla: Igor Carvalho Braz -- RA: 42021158
+            Matheus Magalhães Alves Lopes -- RA: 4231922738*/ 
+
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
